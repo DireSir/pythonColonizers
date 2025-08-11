@@ -1,0 +1,25 @@
+General settings:
+  Human bot names: True
+  Localization: "en"
+
+Board settings:
+  boardSize: 5 # How many hexagons wide and high the board is.
+  
+Dialogue answers:
+  Confirmations:
+    - "yes"
+    - "y"
+    - "ye"
+  Negations:
+    - "no"
+    - "n"
+    - "nah"
+
+System settings:
+  Clear log on restart: True
+  Log errors: True
+  Log traceback: True
+  Print errors: True
+  Print traceback: False
+  Print logs: False
+  Log beginning string: "################################################################################\n"

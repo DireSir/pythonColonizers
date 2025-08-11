@@ -1,0 +1,10 @@
+*
+!dialogue/
+!dialogue/en.json
+!config.yaml
+!engine.py
+!engineCatan.py
+!engineData.json
+!gameData.json
+!main.py
+!.gitignore

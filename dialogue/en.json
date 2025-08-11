@@ -1,0 +1,162 @@
+{
+  "introduction": {
+    "welcome": "\nHello and welcome to Sir's Python Colonizers! Before playing, please take a look at the config.yaml file to edit the game settings.",
+    "welcome2": "\nHave you looked at the config? (Confirmations and negations can be edited there, but answering \"y\" and \"n\" is the default)",
+    "tutorial": {
+
+    }
+  },
+  "gameplay": {
+    "startGame": "\n",
+    "gameEnd": {
+      "singlePlayer": {
+        "loss": {
+          
+        },
+        "victory": {
+
+        }
+      },
+      "multiPlayer": {
+        
+      }
+    }
+  },
+  "system": {
+    "errors": {
+      "cardTypeNotFound": "\n{red}Card type not recognized: {italics}no {replace} card in {replace}{clear}",
+      "replaceCodeCountMismatch": "\n{red}The number of replace codes ({italics}{replace}{/italics}) does not match the number of replacements ({italics}{replace}{/italics}) in the string: {italics}{replace}{clear}"
+    },
+    "events": {
+      "starting": "At:",
+      "loadedMainEngine": "Successfully loaded the main engine.",
+      "loadedEngine": "Successfully loaded the game engine.",
+      "mainLoopStarting": "Main loop started.",
+      "gameSaved": "Game saved!",
+      "testsStarting": "Beginning tests.",
+      "hexagonActivated": "Activated hexagon with resource \"{replace}\" and number {replace}"
+    }
+  },
+  "botNames": {
+    "names": {
+      "male": [
+        "John",
+        "Michael",
+        "David",
+        "James",
+        "Robert",
+        "Anton",
+        "William",
+        "Joseph",
+        "Charles",
+        "Thomas",
+        "Daniel",
+        "Gabriel",
+        "Alexander",
+        "Andrew",
+        "Matthew",
+        "Christopher",
+        "Joshua",
+        "Nicholas",
+        "Ryan",
+        "Kevin",
+        "Brian",
+        "George",
+        "Edward",
+        "Richard",
+        "Gregory",
+        "Steven",
+        "Anthony",
+        "Sir",
+        "Martin",
+        "Vasyl",
+        "Oleg",
+        "Igor",
+        "Dmytro",
+        "Yuriy",
+        "Oleksandr",
+        "Viktor",
+        "Serhiy"
+      ],
+      "female": [
+        "Mary",
+        "Patricia",
+        "Jennifer",
+        "Linda",
+        "Elizabeth",
+        "Barbara",
+        "Susan",
+        "Jessica",
+        "Sarah",
+        "Karen",
+        "Kateryna",
+        "Nancy",
+        "Lisa",
+        "Margaret",
+        "Sandra",
+        "Ashley",
+        "Victoria",
+        "Valentyna",
+        "Olena"
+      ]
+    },
+    "titles": {
+      "male": {
+        "civilian": [
+          "Baker",
+          "Butcher",
+          "Carpenter",
+          "Farmer",
+          "Fisherman",
+          "Miner",
+          "Smith",
+          "Trader",
+          "Merchant",
+          "Builder"
+        ],
+        "pros": [
+          "World Champion",
+          "Grandmaster",
+          "Master",
+          "Expert"
+        ],
+        "scientist": [
+          "Doctor",
+          "Professor",
+          "Engineer",
+          "Scientist",
+          "Researcher"
+        ],
+        "military": [
+          "General",
+          "Colonel",
+          "Major",
+          "Captain",
+          "Lieutenant",
+          "Sergeant",
+          "Corporal",
+          "Private"
+        ]
+      },
+      "female": {
+        "civilian": [
+        ],
+        "pros": [
+
+        ],
+        "scientist": [
+        ],
+        "military": [
+          "General",
+          "Colonel",
+          "Major",
+          "Captain",
+          "Lieutenant",
+          "Sergeant",
+          "Corporal",
+          "Private"
+        ]
+      }
+    }
+  }
+}

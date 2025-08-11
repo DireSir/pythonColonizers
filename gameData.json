@@ -1,0 +1,21 @@
+{
+  "resources": [
+    "wheat",
+    "stone",
+    "sheep",
+    "brick",
+    "wood"
+  ],
+  "prices": {
+    "gamblingCard": {
+      "sheep": 1,
+      "stone": 1,
+      "wheat": 1
+    }
+  },
+  "gamblingCardTypes": [
+    "knight",
+    "monopoly",
+    "vp"
+  ]
+}
